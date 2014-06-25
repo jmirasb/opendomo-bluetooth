@@ -1,0 +1,5 @@
+DESCRIPTION="Bluetooth driver" 
+REQUIRED_BYTES="50000" 
+SCREENSHOTS="http://es.opendomo.org/odbt1.png" 
+SCHEME="FEFABA FFFFFF" 
+ICON="odbt.png"
